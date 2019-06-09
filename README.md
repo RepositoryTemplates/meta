@@ -16,4 +16,11 @@
     with details about your template and we can start a discussion
     about it.
   </p>
+
+  <p>
+    To start using a template, go to any template repository in <a href="https://github.com/RepositoryTemplates" title="Repository Templates">
+    this organization</a> based on the language/framework you need and
+    click on the <strong>Use this template</strong> button.
+  </p>
+  <img src="https://i.imgur.com/dsaDBHZ.png" alt="Use this template" />
 </div>
