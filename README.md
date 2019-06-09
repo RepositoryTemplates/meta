@@ -4,7 +4,7 @@
   <h1>GitHub Repository Templates</h1>
 
   <p>
-    This organization holds various repository templates that anyone
+  This organization holds various <a href="https://github.blog/2019-06-06-generate-new-repositories-with-repository-templates/" title="GitHub Repository Templates">repository templates</a> that anyone
     can use throughout GitHub to bootstrap their project.
   </p>
 
